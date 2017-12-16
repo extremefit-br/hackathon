@@ -8,22 +8,17 @@
 
 nav ul a,
 nav .brand-logo {
-  color: white;
-  background-color: #FF0000;
-}
-nav {
-background-color: #FF0000;
+  color: red;
 }
 
 p {
   line-height: 2rem;
 }
 h1 {
-  color: #FFF!important;
+  color: #FF0000!important;
 }
-
 .button-collapse {
-  color: red;
+  color: #26a69a;
 }
 
 .parallax-container {
