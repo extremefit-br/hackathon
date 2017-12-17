@@ -5,8 +5,13 @@ https://extremefit-br.github.io/hackaton/
 
 
 # Ajustar
-CSS - Iframe do prototipo para nao quebrar a versao mobile da pagina;
-Prototipo - linkar telas no marvell para nao depender de ações especificas e para testar no celular;
-Revisāo geral de textos e efeitos possiveis na pâgina;
-Revisar tamanho das imagens visando carregamento rapido da pagina.
-Ajustar semantica e SEO;
+
+-- CSS - Iframe do prototipo para nao quebrar a versao mobile da pagina;
+
+-- Prototipo - linkar telas no marvell para nao depender de ações especificas e para testar no celular;
+
+-- Revisāo geral de textos e efeitos possiveis na pâgina;
+
+-- Revisar tamanho das imagens visando carregamento rapido da pagina.
+
+-- Ajustar semantica e SEO;
