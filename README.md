@@ -10,7 +10,7 @@ https://extremefit-br.github.io/hackaton/
 
 -- Prototipo - linkar telas no marvell para nao depender de ações especificas e para testar no celular;
 
--- Revisāo geral de textos e efeitos possiveis na pâgina;
+-- Revisāo geral de textos e efeitos possiveis na pagina;
 
 -- Revisar tamanho das imagens visando carregamento rapido da pagina.
 
